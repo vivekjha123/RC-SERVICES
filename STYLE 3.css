@@ -1,0 +1,246 @@
+html{
+    background-color: rgb(208, 121, 58);
+}
+
+.special{
+    text-align: center;
+    color: rgb(117, 89, 189);
+    font-family: "Sofia", sans-serif;
+    font-size: 45px;
+    text-shadow: 3px 3px 3px rgb(27, 27, 27);
+    background-color: beige;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.rating{
+    text-align: center;
+    color: rgb(58, 41, 1);
+    font-family: fantasy;
+    font-weight: lighter;
+    background-color: bisque;
+    margin: 10px;
+    padding: 7px;
+    text-shadow: 1.5px 1.5px 1.5px rgb(34, 34, 34);
+    border-radius: 30px;
+}
+
+
+div{
+a:hover{
+    color: rgb(251, 251, 253);
+padding: 7px;
+
+}}
+
+div{
+    background-color: rgb(143, 174, 143);
+    padding: 10px;
+}
+
+.head2{
+    background-color: rgb(244, 191, 112);
+    padding: 3px;
+    margin: 15px;
+    border-radius: 45px;
+    width: 280px;
+    height: 80px
+}
+
+table,tr,th,td{
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-spacing: 5px;
+    background-color: bisque;
+}
+
+th{
+    background-color: rgb(214, 145, 120);
+}
+
+.all{
+    box-sizing:border-box;
+}
+
+.all{
+    margin: 15px 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    padding: 8px;
+}
+
+.all{
+    background-color: rgb(246, 214, 176);
+    padding: 15px 30px 25px 30px;
+    border: solid 0.1px;
+    border-color: black;
+    border-radius: 8px;
+    max-width: 900px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+fieldset{
+    background-color: white;
+    border: 1px solid;
+}
+
+.payment{
+    text-align: center;
+}
+
+input[type="submit"]{
+    background-color: azure;
+    border: none;
+    border-radius: 8px;
+    padding: 15px 20px;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type="submit"]:hover{
+    background-color: rgb(75, 241, 10);
+}
+
+.footer{
+    font-style: italic;
+}
+
+.SUBHEAD{
+    background-color: aquamarine;
+    border: solid;
+    border-color: aquamarine;
+    padding: 2px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.mission{
+    color: blue;
+    text-align: center;
+}
+
+.container1{
+    container: ;
+    background-color:bisque;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+.about{
+    color: blue;
+    text-align: center;
+}
+
+.container2{
+    container: ;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+.leader{
+    color: blue;
+    text-align: center;
+}
+
+.container3{
+    container: ;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+
+.container4{
+    container: ;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: 15px;
+
+}
+
+.what{
+    color: blue;
+    text-align: center;
+}
+
+.container5{
+    container: ;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+.why{
+    color: blue;
+    text-align: center;
+}
+
+.container6{
+    container: ;
+    background-color: bisque;
+    border-radius: 30px;
+    margin: 15px;
+}
+
+.PARMESHWAR, .circle{
+    background-color: brown;
+    clip-path: circle(50% at 50% 50%);
+}
+
+.width{
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.new2{
+    width: 50%;
+    max-width: 500px;
+    background-color: burlywood;
+}
+
+.tally-logo{
+    position:absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.tallyold{
+    position: absolute;
+    top: 20px;
+    left: 90%;
+}
+
+.biz{
+    position: absolute;
+    right: 75%;
+}
+
+.aws{
+    position: absolute;
+    left: 40%;
+}
+
+.acronis{
+    position: absolute;
+    left: 75%;
+}
+
+.pages{
+    position: sticky;
+    top: 0.00001px;
+}
